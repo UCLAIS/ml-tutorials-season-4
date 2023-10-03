@@ -12,11 +12,7 @@ Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be div
 
 | Week | Lecture date | Topic |
 | ---- | ------------ | ----- |
-| 1    | 5th October 2022 | Introduction to the artificial intelligence landscape |
-| 2    | 12th October 2022 | Introduction to Python and libraries used in scientific computing |
-| 3    | 19th October 2022 | Fundamentals of supervised AI models |
-| 4    | 26th October 2022 | Introduction to unsupervised models and data pre-processing |
-| 5    | 2nd November 2022 | Ensemble models and Neural Networks |
+| 0    | 11th October 2022 | Introduction to the artificial intelligence landscape |
 
 ## Social media
 
