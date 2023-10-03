@@ -10,9 +10,9 @@ Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be div
 
 ## Curriculum
 
-| Week | Lecture date | Topic |
-| ---- | ------------ | ----- |
-| 0    | 11th October 2022 | Introduction to the artificial intelligence landscape |
+| Week | Lecture date | Topic | Slides
+| ---- | ------------ | ----- | -----
+| 0    | 11th October 2022 | Introduction to the artificial intelligence landscape | [link](https://www.canva.com/design/DAFm9tHNEDM/cEKEXWzmazR5KKN-7f06tw/edit?utm_content=DAFm9tHNEDM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Social media
 
