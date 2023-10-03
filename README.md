@@ -19,6 +19,7 @@ Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be div
 If you have any questions, the best place to ask us if you cannot do so in person during a tutorial session is the [UCL AI Society discord server](https://discord.gg/Hh9EVw2RGP).
 
 You can also follow us on other social media channels:
+- [Website](https://uclaisociety.co.uk)
 - [YouTube](https://www.youtube.com/channel/UC-5Whp878nPjOqKaL0tsDoA)
 - [Facebook](https://www.facebook.com/AISoc.ucl)
 - [Instagram](https://www.instagram.com/p/CUxvALApRFL/)
