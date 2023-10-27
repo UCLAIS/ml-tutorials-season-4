@@ -7,16 +7,18 @@ Welcome to UCLAIS Machine Learning course! Over the next few weeks, we'll be div
 - [Angela Yu](https://github.com/angela24680403) (Head of Tutorials)
 - [Damien Bose](https://github.com/damienbose) (Machine Learning Officer)
 - [Suhail Merali](https://github.com/slushiegoose) (Machine Learning Officer)
-- Arham Ali (Tutorials Reviewer)
+- [Arham Ali](https://github.com/Ar15Ham) (Tutorials Reviewer)
+- [Ilai Bachrach](https://github.com/ilaiadaya) (Machine Learning Officer)
+- [James Ray](https://github.com/sympan) (Machine Learning Officer)
 
 ## Curriculum
 
 | Week | Lecture date | Topic | Slides
 | ---- | ------------ | ----- | -----
 | 0    | 11th October 2023 | Introduction to Artificial Intelligence | [link](https://www.canva.com/design/DAFm9tHNEDM/cEKEXWzmazR5KKN-7f06tw/edit?utm_content=DAFm9tHNEDM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-| 1    | 18th October 2023 | Introduction to Python | Coming Soon!
-| 1    | 25th October 2023 | Regression | Coming Soon!
-| 1    | 1st November 2023 | Classification | Coming Soon!
+| 1    | 18th October 2023 | Introduction to Python | [Link](https://www.canva.com/design/DAFmvE-ptx0/lyY0SiOcjgSxrb201KcC8w/view)
+| 1    | 25th October 2023 | Regression | [Link](https://www.canva.com/design/DAFoWFiqTgg/9h0jgvGO1Pd35iYhQfFPMQ/view)
+| 1    | 1st November 2023 | Classification | [Link](https://www.canva.com/design/DAFqI2cJlw0/Y-hfq3RUexRi18DBV0R0VA/view)
 
 ## Social media
 
