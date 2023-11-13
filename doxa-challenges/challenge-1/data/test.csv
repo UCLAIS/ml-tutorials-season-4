@@ -1,0 +1,737 @@
+date,home_team,away_team,referee,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards
+2017-12-13,West Ham,Arsenal,J Moss,6,22,0,3,9,9,1,7,1,0,0,0
+2004-02-21,Man United,Leeds,M Halsey,24,7,7,3,12,17,12,7,1,2,0,0
+2009-02-23,Hull,Tottenham,L Probert,12,9,4,6,11,7,11,13,2,1,0,0
+2017-12-03,Bournemouth,Southampton,J Moss,16,15,5,4,6,12,5,4,2,1,0,0
+2014-01-18,Liverpool,Aston Villa,J Moss,14,12,6,3,14,18,2,3,1,4,0,0
+2007-04-29,Arsenal,Fulham,M Clattenburg,10,7,5,1,6,10,7,6,2,4,0,0
+2003-12-28,Bolton,Leicester,N Barry,15,7,8,6,16,17,3,7,1,2,0,0
+2004-09-26,Portsmouth,Everton,D Gallagher,11,9,6,2,12,16,3,6,1,1,0,0
+2014-05-04,Chelsea,Norwich,N Swarbrick,23,6,4,3,9,17,5,2,1,3,0,0
+2016-05-07,Crystal Palace,Stoke,K Friend,17,12,4,3,8,18,4,3,2,3,0,0
+2019-04-13,Man United,West Ham,G Scott,14,18,4,4,14,5,3,11,1,1,0,0
+2017-03-19,Middlesbrough,Man United,J Moss,10,14,3,6,9,8,8,3,1,1,0,0
+2009-09-26,Tottenham,Burnley,M Dean,18,10,12,7,10,14,2,7,1,1,0,0
+2012-12-22,West Brom,Norwich,M Atkinson,12,10,8,4,14,9,6,5,1,1,0,0
+2013-09-22,Arsenal,Stoke,M Dean,16,9,8,3,8,15,6,7,0,2,0,0
+2015-05-24,Arsenal,West Brom,R Madley,24,14,13,5,6,7,7,3,1,0,0,0
+2013-03-17,Wigan,Newcastle,M Halsey,13,9,10,4,7,12,7,3,1,1,0,0
+2019-01-14,Man City,Wolves,C Pawson,24,3,9,0,6,3,12,1,1,0,0,1
+2009-08-15,Blackburn,Man City,M Dean,17,8,9,5,12,9,5,4,2,1,0,0
+2003-08-16,Blackburn,Wolves,J Winter,25,8,13,5,8,14,6,2,1,1,0,0
+2015-08-14,Aston Villa,Man United,M Dean,5,9,1,2,14,10,3,5,2,2,0,0
+2004-12-12,Aston Villa,Birmingham,S Dunn,9,9,3,5,9,28,6,0,2,4,0,0
+2021-02-28,Leicester,Arsenal,P Tierney,8,12,3,4,15,3,2,7,2,1,0,0
+2019-08-09,Liverpool,Norwich,M Oliver,15,12,7,5,9,9,11,2,0,2,0,0
+2016-04-13,Crystal Palace,Everton,M Jones,18,9,6,5,7,9,10,7,0,1,0,1
+2012-11-10,Southampton,Swansea,A Marriner,11,5,5,3,11,10,10,6,2,2,0,0
+2021-09-25,Man United,Aston Villa,M Dean,28,7,4,3,9,13,5,5,2,2,0,0
+2008-12-26,Man City,Hull,A Marriner,23,15,16,11,15,14,8,10,0,4,0,0
+2022-08-13,Southampton,Leeds,T Harrington,14,13,4,5,10,12,2,5,1,3,0,0
+2022-10-29,Brentford,Wolves,R Madley,12,14,3,4,10,17,3,6,3,3,0,1
+2013-03-10,Newcastle,Stoke,A Marriner,14,7,6,4,10,12,14,4,1,1,0,0
+2019-09-30,Man United,Arsenal,K Friend,16,10,4,5,18,13,8,7,4,2,0,0
+2020-12-06,West Brom,Crystal Palace,P Tierney,9,18,4,6,10,16,4,6,2,2,1,0
+2009-04-18,Sunderland,Hull,M Dean,8,13,4,3,11,23,6,6,2,3,0,0
+2004-04-03,Tottenham,Chelsea,S Bennett,12,10,7,7,10,10,5,4,2,0,0,0
+2010-09-11,Arsenal,Bolton,S Attwell,23,7,14,6,11,11,9,6,2,2,0,1
+2005-12-28,West Ham,Wigan,S Bennett,4,8,1,4,14,15,5,3,1,1,0,0
+2012-11-27,Sunderland,QPR,A Marriner,13,13,8,9,10,15,5,8,1,3,0,0
+2016-02-06,Man City,Leicester,A Taylor,22,14,4,7,9,15,11,4,2,2,0,0
+2020-12-15,Wolves,Chelsea,S Attwell,12,13,4,3,12,12,5,6,2,2,0,0
+2009-10-03,Wolves,Portsmouth,H Webb,11,12,5,8,8,12,8,6,1,2,0,0
+2005-05-07,Man United,West Brom,M Halsey,27,2,14,0,10,13,12,0,1,0,0,0
+2020-12-27,Leeds,Burnley,R Jones,11,14,4,6,8,14,4,12,0,3,0,0
+2020-01-22,Tottenham,Norwich,C Kavanagh,14,12,3,2,12,7,7,3,0,1,0,0
+2010-10-23,West Brom,Fulham,K Friend,14,9,7,3,3,8,7,5,0,0,0,0
+2017-12-10,Liverpool,Everton,C Pawson,23,3,3,2,8,11,12,1,1,3,0,0
+2005-01-15,Man City,Crystal Palace,A Marriner,16,7,9,2,10,11,7,7,2,1,0,0
+2014-09-29,Stoke,Newcastle,C Pawson,12,16,3,1,20,15,2,10,1,2,0,0
+2011-09-17,Aston Villa,Newcastle,N Swarbrick,10,21,2,13,13,10,4,9,1,1,0,0
+2005-10-02,Man City,Everton,M Halsey,14,5,5,4,16,10,4,2,1,0,0,0
+2018-01-20,Man City,Newcastle,P Tierney,21,6,9,4,5,10,18,0,0,1,0,0
+2008-04-12,Tottenham,Middlesbrough,M Halsey,12,13,9,7,6,19,2,7,0,3,0,0
+2017-12-23,West Ham,Newcastle,L Mason,19,11,6,4,9,12,6,3,1,1,0,0
+2018-12-29,Leicester,Cardiff,S Hooper,16,12,7,3,14,16,10,4,0,2,0,0
+2018-12-29,Watford,Newcastle,R East,12,8,5,2,17,16,3,6,1,2,0,0
+2016-12-30,Hull,Everton,J Moss,13,20,4,7,10,13,5,5,2,2,0,0
+2021-09-18,Norwich,Watford,R Jones,12,12,5,8,10,14,4,8,1,1,0,0
+2003-09-28,Charlton,Liverpool,R Styles,14,17,5,9,11,9,7,5,2,1,0,0
+2018-11-05,Huddersfield,Fulham,A Taylor,10,7,2,1,11,8,5,4,1,2,0,0
+2020-03-09,Leicester,Aston Villa,M Oliver,15,4,7,1,15,12,9,0,2,1,0,0
+2005-02-14,Arsenal,Crystal Palace,R Styles,17,6,12,3,8,17,5,1,1,2,0,0
+2014-12-21,Newcastle,Sunderland,A Taylor,15,16,7,3,15,15,7,1,4,4,0,0
+2019-09-22,Chelsea,Liverpool,M Oliver,13,6,2,3,8,13,6,4,3,3,0,0
+2017-10-20,West Ham,Brighton,M Atkinson,16,7,2,5,5,13,10,3,1,0,0,0
+2020-06-21,Newcastle,Sheffield United,D Coote,12,7,8,1,9,10,2,4,2,0,0,1
+2021-12-04,Newcastle,Burnley,P Tierney,19,10,4,1,11,9,10,3,1,1,0,0
+2008-03-23,Chelsea,Arsenal,M Clattenburg,11,7,8,5,10,13,4,2,3,1,0,0
+2018-12-08,Chelsea,Man City,M Oliver,8,14,5,4,12,11,1,13,2,0,0,0
+2008-02-23,Fulham,West Ham,H Webb,18,12,14,6,12,17,5,8,3,0,1,0
+2009-02-01,Liverpool,Chelsea,M Riley,21,4,15,1,20,15,12,1,4,3,0,1
+2009-11-07,Tottenham,Sunderland,K Friend,10,14,8,6,10,19,4,4,1,2,0,0
+2018-09-22,Crystal Palace,Newcastle,A Marriner,16,6,4,3,8,11,9,5,1,1,0,0
+2016-09-10,Bournemouth,West Brom,K Friend,12,12,5,2,9,11,10,5,1,3,0,0
+2007-12-08,Newcastle,Birmingham,R Styles,17,7,9,4,10,8,6,5,1,2,0,0
+2018-02-24,Liverpool,West Ham,S Attwell,21,7,12,4,7,7,8,2,0,2,0,0
+2016-08-27,Chelsea,Burnley,M Clattenburg,22,6,10,0,6,9,9,5,2,2,0,0
+2005-04-16,Birmingham,Portsmouth,P Walton,9,5,4,4,16,12,7,5,1,2,0,0
+2006-03-25,Sunderland,Blackburn,P Walton,10,7,6,4,12,17,4,4,4,1,0,0
+2010-04-25,Everton,Fulham,L Mason,15,8,9,6,7,12,9,3,0,1,0,0
+2022-10-01,Crystal Palace,Chelsea,C Kavanagh,7,13,3,3,11,13,5,2,1,3,0,0
+2015-01-10,Everton,Man City,M Atkinson,11,18,4,2,9,10,4,9,1,2,0,0
+2021-01-30,Arsenal,Man United,M Oliver,17,14,3,3,9,16,4,7,1,3,0,0
+2012-03-11,Swansea,Man City,L Mason,8,18,5,13,9,14,7,9,0,2,0,0
+2019-11-02,Aston Villa,Liverpool,J Moss,5,25,2,6,12,9,2,10,1,2,0,0
+2019-12-28,West Ham,Leicester,D Coote,14,13,4,8,16,4,5,5,4,1,0,0
+2006-04-29,Man City,Fulham,P Walton,19,12,10,7,11,11,9,6,1,2,0,0
+2003-11-08,Wolves,Birmingham,G Barber,11,4,4,2,13,12,8,1,2,1,0,0
+2007-05-05,West Ham,Bolton,M Riley,9,8,6,3,17,21,5,3,2,5,0,0
+2021-09-19,West Ham,Man United,M Atkinson,13,17,4,10,5,8,2,11,0,0,0,0
+2018-04-23,Everton,Newcastle,R Madley,9,9,1,2,10,11,4,6,2,1,0,0
+2010-03-13,Burnley,Wolves,S Bennett,22,7,11,3,10,21,11,6,1,4,0,0
+2022-10-16,Leeds,Arsenal,C Kavanagh,16,9,4,4,10,11,6,3,0,2,0,0
+2009-11-28,Wigan,Sunderland,Mn Atkinson,16,9,10,4,12,14,5,8,0,3,0,0
+2004-03-13,Blackburn,Arsenal,A Wiley,10,14,5,5,12,11,8,3,1,1,0,0
+2022-04-20,Newcastle,Crystal Palace,T Harrington,13,10,4,2,12,12,2,5,1,1,0,0
+2012-10-20,West Ham,Southampton,N Swarbrick,9,11,8,4,10,12,6,3,0,2,0,0
+2018-03-31,Brighton,Leicester,C Kavanagh,15,6,3,4,11,13,6,1,2,4,0,1
+2011-10-02,Fulham,QPR,A Marriner,19,17,13,10,10,7,4,4,2,3,0,0
+2015-10-04,Swansea,Tottenham,M Dean,11,19,2,11,8,19,5,6,1,4,0,0
+2006-02-25,Chelsea,Portsmouth,M Riley,17,5,8,1,7,13,6,7,0,1,0,0
+2005-01-22,Norwich,Middlesbrough,M Messias,17,22,9,15,11,16,5,8,0,3,0,0
+2021-01-31,Leicester,Leeds,C Kavanagh,18,8,8,7,17,16,6,4,0,3,0,0
+2010-08-14,Wolves,Stoke,L Probert,13,10,7,6,17,13,5,5,0,2,0,0
+2009-11-21,Birmingham,Fulham,C Foy,3,12,2,5,7,9,0,7,1,0,0,0
+2004-12-13,Fulham,Man United,P Dowd,7,14,3,6,15,11,6,7,2,1,0,0
+2021-05-18,Southampton,Leeds,P Bankes,18,15,3,7,10,12,4,5,0,3,0,0
+2017-04-30,Tottenham,Arsenal,M Oliver,20,12,11,4,7,15,14,5,1,3,0,0
+2009-08-19,Birmingham,Portsmouth,L Probert,9,9,5,4,11,20,4,5,0,5,0,0
+2005-08-13,Middlesbrough,Liverpool,M Halsey,4,16,2,7,17,11,5,0,2,3,1,0
+2018-10-27,Fulham,Bournemouth,A Marriner,11,12,1,5,16,3,5,5,2,1,1,0
+2009-11-08,Hull,Stoke,M Dean,16,7,8,4,12,14,4,2,1,4,0,1
+2009-10-31,Portsmouth,Wigan,A Wiley,21,8,11,3,11,10,7,4,0,1,0,0
+2021-03-20,Brighton,Newcastle,A Taylor,11,3,6,1,12,5,3,1,0,1,0,0
+2021-11-07,West Ham,Liverpool,C Pawson,7,16,3,5,11,6,3,2,1,1,0,0
+2013-10-05,Cardiff,Newcastle,K Friend,8,20,2,10,11,8,3,3,1,0,0,0
+2019-11-02,Watford,Chelsea,A Taylor,12,16,3,10,8,5,1,6,4,2,0,0
+2004-11-20,Middlesbrough,Liverpool,S Bennett,14,17,6,10,14,10,3,5,3,2,0,0
+2021-11-28,Chelsea,Man United,A Taylor,24,3,6,2,13,14,15,2,2,5,0,0
+2020-10-18,Tottenham,West Ham,P Tierney,11,13,6,4,13,12,3,7,0,5,0,0
+2017-04-05,Chelsea,Man City,M Dean,10,17,4,7,10,14,2,9,1,3,0,0
+2004-09-27,Charlton,Blackburn,S Dunn,6,12,3,7,18,14,6,10,1,1,0,0
+2013-03-30,Arsenal,Reading,C Foy,23,4,14,2,9,14,11,3,0,1,0,0
+2008-02-09,Derby,Tottenham,M Atkinson,10,13,6,8,14,10,7,9,3,1,0,0
+2013-12-07,Man United,Newcastle,A Marriner,8,9,4,3,11,18,4,4,0,2,0,0
+2004-03-27,Everton,Middlesbrough,S Bennett,14,10,7,5,16,13,8,4,0,2,0,0
+2010-01-16,Chelsea,Sunderland,C Foy,23,7,13,3,4,10,15,1,0,1,0,0
+2005-12-31,Chelsea,Birmingham,M Dean,12,9,8,3,11,8,5,4,1,0,0,0
+2006-04-02,Man City,Middlesbrough,M Riley,9,16,2,9,15,17,2,9,0,1,0,0
+2005-12-10,Chelsea,Wigan,H Webb,11,4,8,1,16,10,5,1,1,1,0,0
+2019-03-16,West Ham,Huddersfield,J Moss,16,15,5,5,7,15,5,8,0,2,0,0
+2014-12-13,Crystal Palace,Stoke,K Friend,10,7,3,3,12,11,9,8,2,0,0,0
+2007-01-20,Middlesbrough,Bolton,A Wiley,10,11,5,5,12,13,1,8,1,3,0,1
+2013-01-01,Tottenham,Reading,H Webb,30,7,20,4,9,9,12,3,0,0,0,0
+2010-08-28,Blackburn,Arsenal,C Foy,15,14,7,9,9,7,4,8,1,0,0,0
+2007-12-02,Liverpool,Bolton,S Bennett,23,6,14,3,11,14,5,5,0,3,0,0
+2014-11-22,Leicester,Sunderland,R Madley,13,10,4,5,18,12,6,9,2,3,0,0
+2019-09-29,Leicester,Newcastle,C Pawson,13,3,5,0,12,9,9,0,1,1,0,1
+2018-01-01,Everton,Man United,A Marriner,12,21,0,6,11,10,6,6,2,0,0,0
+2014-03-08,Cardiff,Fulham,M Atkinson,19,14,9,6,9,12,7,6,1,0,0,0
+2018-04-28,Newcastle,West Brom,D Coote,17,9,2,2,8,13,5,1,1,3,0,0
+2021-10-16,Man City,Burnley,M Atkinson,15,7,6,2,11,5,6,2,1,0,0,0
+2022-10-09,Crystal Palace,Leeds,P Tierney,13,10,5,4,13,23,5,3,3,3,0,0
+2017-08-20,Huddersfield,Newcastle,C Pawson,7,13,3,5,13,10,7,3,3,4,0,0
+2009-11-28,Blackburn,Stoke,H Webb,11,7,4,4,12,11,9,2,1,2,0,0
+2019-02-03,Man City,Arsenal,M Atkinson,19,4,12,2,11,8,4,2,1,1,0,0
+2003-12-14,Arsenal,Blackburn,A D'Urso,11,5,7,1,14,14,5,6,2,4,0,0
+2013-01-02,Liverpool,Sunderland,P Dowd,27,6,16,5,8,5,9,5,0,1,0,0
+2021-10-30,Watford,Southampton,P Bankes,10,12,4,1,16,6,5,8,2,2,0,0
+2016-10-02,Man United,Stoke,R Madley,24,7,9,6,14,9,13,2,3,0,0,0
+2022-10-29,Crystal Palace,Southampton,M Salisbury,12,14,3,4,13,12,8,4,3,3,0,0
+2022-02-12,Brentford,Crystal Palace,S Hooper,9,6,2,3,10,10,3,9,1,0,0,0
+2018-09-22,Fulham,Watford,M Atkinson,15,11,3,6,11,9,8,8,2,1,0,0
+2007-11-03,Middlesbrough,Tottenham,M Dean,5,9,3,4,13,8,6,7,1,0,0,0
+2020-07-08,Brighton,Liverpool,C Pawson,12,19,2,8,7,15,6,10,1,4,0,0
+2011-12-18,QPR,Man United,H Webb,11,19,3,12,5,7,5,10,1,2,0,0
+2017-05-07,Liverpool,Southampton,R Madley,17,4,8,0,9,4,3,6,1,3,0,0
+2004-12-26,Blackburn,Newcastle,M Messias,21,5,11,3,18,19,7,5,1,2,0,0
+2016-12-18,Man City,Arsenal,M Atkinson,14,6,5,1,9,13,8,1,4,2,0,0
+2009-01-10,Middlesbrough,Sunderland,P Dowd,9,10,3,5,11,13,2,7,0,4,0,0
+2010-12-26,Aston Villa,Tottenham,M Atkinson,26,13,15,8,13,11,8,4,3,3,0,1
+2022-05-08,Man City,Newcastle,S Attwell,21,7,9,3,6,11,8,2,1,3,0,0
+2014-11-09,Swansea,Arsenal,P Dowd,11,12,5,4,10,16,6,10,5,5,0,0
+2011-11-26,Man United,Newcastle,M Jones,23,8,13,6,12,15,11,3,1,4,0,1
+2022-02-12,Everton,Leeds,G Scott,21,7,10,0,8,9,5,3,1,1,0,0
+2006-03-18,Everton,Aston Villa,R Styles,12,9,7,7,6,11,4,9,1,3,0,0
+2004-10-16,Bolton,Crystal Palace,N Barry,21,7,7,2,19,14,7,3,1,1,0,0
+2010-11-27,Stoke,Man City,P Walton,16,9,9,4,8,10,6,2,2,2,0,0
+2003-09-13,Everton,Newcastle,R Styles,9,4,7,2,20,21,6,3,5,5,1,1
+2022-02-20,Leeds,Man United,P Tierney,16,15,6,9,13,19,3,3,6,3,0,0
+2009-01-31,Arsenal,West Ham,S Bennett,15,2,8,2,12,12,13,3,2,2,0,0
+2009-08-29,Bolton,Liverpool,A Wiley,8,26,5,14,14,7,5,11,3,1,1,0
+2010-12-05,West Brom,Newcastle,M Dean,20,11,12,7,11,9,7,3,0,5,0,0
+2021-03-08,West Ham,Leeds,M Dean,16,17,5,2,9,9,6,6,1,1,0,0
+2022-02-26,Leeds,Tottenham,C Pawson,19,15,3,11,16,11,3,6,4,2,0,0
+2005-12-17,Fulham,Blackburn,M Clattenburg,8,10,5,4,12,13,8,12,4,4,0,0
+2013-10-27,Tottenham,Hull,M Oliver,15,10,6,4,13,10,6,4,3,3,0,0
+2012-01-14,Man United,Bolton,P Walton,19,11,9,5,7,7,11,3,0,1,0,0
+2007-01-30,Sheffield United,Fulham,L Mason,16,7,8,0,14,10,5,4,1,1,0,0
+2013-05-19,Tottenham,Sunderland,A Marriner,23,6,19,4,6,12,14,1,1,3,0,1
+2008-02-09,West Ham,Birmingham,M Clattenburg,18,5,10,3,12,20,7,4,0,5,1,0
+2021-10-03,West Ham,Brentford,P Bankes,18,13,5,6,16,13,11,6,2,3,0,0
+2016-01-02,West Ham,Liverpool,R Madley,18,23,10,2,11,8,3,9,1,1,0,0
+2008-03-23,Man United,Liverpool,S Bennett,22,8,15,4,11,12,2,4,1,3,0,1
+2010-08-14,Sunderland,Birmingham,A Taylor,6,13,2,7,13,10,3,6,3,3,1,0
+2011-12-11,Stoke,Tottenham,C Foy,10,15,7,12,8,7,7,12,2,2,0,1
+2010-09-25,Fulham,Everton,H Webb,12,15,2,7,15,13,4,5,2,1,0,0
+2010-01-30,Liverpool,Bolton,S Bennett,13,4,6,1,12,10,11,3,1,3,0,0
+2005-12-03,West Brom,Fulham,S Bennett,5,8,4,1,8,15,1,3,1,3,0,1
+2005-08-24,Bolton,Newcastle,R Styles,14,7,6,4,12,17,4,3,0,1,0,0
+2005-12-26,Liverpool,Newcastle,M Halsey,21,2,11,2,9,13,7,4,1,0,0,1
+2019-01-30,Southampton,Crystal Palace,A Marriner,13,15,4,3,11,8,3,8,2,2,0,1
+2019-01-30,Tottenham,Watford,G Scott,17,9,3,1,6,9,9,5,0,4,0,0
+2010-10-02,Tottenham,Aston Villa,M Clattenburg,19,13,10,4,12,19,10,4,1,3,0,0
+2014-10-18,Burnley,West Ham,K Friend,17,22,3,6,3,10,5,7,0,1,0,0
+2019-04-15,Watford,Arsenal,C Pawson,11,19,3,6,12,8,6,4,2,0,1,0
+2017-02-11,Middlesbrough,Everton,M Dean,9,7,3,3,14,9,5,2,2,0,0,0
+2011-04-02,Everton,Aston Villa,M Jones,14,7,7,5,13,16,5,7,3,2,0,0
+2003-09-13,Bolton,Middlesbrough,P Dowd,13,7,8,6,17,14,10,1,3,3,0,0
+2005-08-21,Bolton,Everton,A Wiley,16,3,6,1,10,13,8,3,0,1,0,0
+2012-03-31,QPR,Arsenal,M Dean,10,13,8,7,13,9,4,6,5,2,0,0
+2004-03-27,Birmingham,Leeds,M Halsey,17,11,7,7,11,18,7,7,0,1,0,0
+2021-04-21,Tottenham,Southampton,D Coote,12,10,3,5,10,14,5,5,2,1,0,0
+2021-12-01,Southampton,Leicester,R Jones,15,15,7,6,14,11,2,4,1,3,0,0
+2016-01-23,Norwich,Liverpool,L Mason,6,13,5,7,10,14,3,3,0,1,0,0
+2005-02-26,Southampton,Arsenal,A Wiley,10,17,3,12,9,13,3,5,1,1,1,1
+2006-10-14,Portsmouth,West Ham,G Poll,18,6,6,3,20,11,4,4,4,4,0,0
+2013-08-24,Stoke,Crystal Palace,A Marriner,14,14,5,5,13,6,7,0,3,0,0,0
+2021-12-04,West Ham,Chelsea,A Marriner,11,19,5,7,10,10,1,9,1,3,0,0
+2007-08-26,Middlesbrough,Newcastle,M Dean,11,5,7,3,13,10,5,2,6,3,0,0
+2009-11-07,Blackburn,Portsmouth,A Marriner,10,9,6,3,12,18,8,5,3,3,0,0
+2017-02-27,Leicester,Liverpool,M Oliver,13,17,7,7,8,5,5,12,0,0,0,0
+2010-01-30,Wigan,Everton,L Probert,10,10,4,7,19,10,4,7,0,2,0,0
+2006-02-25,Charlton,Aston Villa,C Foy,13,11,6,7,9,9,1,8,0,1,0,0
+2006-09-30,Sheffield United,Middlesbrough,P Walton,13,7,7,2,8,12,10,4,1,3,0,0
+2012-04-21,Blackburn,Norwich,K Friend,9,12,6,5,8,13,9,7,1,1,0,0
+2010-02-10,Aston Villa,Man United,P Walton,10,12,6,6,9,10,1,7,0,1,0,1
+2007-09-23,Bolton,Tottenham,A Marriner,5,10,4,7,14,15,4,11,0,2,0,0
+2006-01-02,Blackburn,Portsmouth,M Dean,12,8,7,4,11,12,4,6,1,4,0,0
+2010-01-20,Liverpool,Tottenham,H Webb,13,7,5,5,11,17,2,3,2,3,0,0
+2014-05-06,Man United,Hull,C Pawson,18,2,7,2,13,9,8,0,1,1,0,0
+2022-08-06,Bournemouth,Aston Villa,P Bankes,7,15,3,2,18,16,5,5,3,3,0,0
+2004-05-01,Wolves,Everton,M Riley,20,10,11,6,7,12,12,7,0,1,0,0
+2006-11-11,Sheffield United,Bolton,A Wiley,8,6,4,4,5,6,4,5,1,1,0,0
+2007-12-16,Liverpool,Man United,M Halsey,19,5,6,3,14,13,3,3,2,3,0,0
+2008-11-15,Arsenal,Aston Villa,M Riley,11,9,8,6,9,22,8,5,2,4,0,0
+2015-05-02,Leicester,Newcastle,M Dean,19,12,7,3,10,13,10,7,1,2,0,2
+2009-02-07,Blackburn,Aston Villa,S Bennett,17,15,8,8,11,9,4,13,2,0,0,0
+2022-01-01,Crystal Palace,West Ham,D England,22,10,6,5,6,16,9,1,0,2,0,0
+2016-10-23,Man City,Southampton,M Clattenburg,14,6,3,2,11,10,10,3,3,3,0,0
+2012-03-18,Wolves,Man United,A Taylor,7,22,3,18,6,11,4,7,1,1,1,0
+2008-08-16,Middlesbrough,Tottenham,M Atkinson,14,8,10,5,11,12,7,9,1,2,0,0
+2019-02-23,Bournemouth,Wolves,R East,10,10,3,2,10,15,9,8,4,5,0,0
+2007-04-21,Bolton,Reading,H Webb,18,10,15,7,17,13,7,4,0,2,0,0
+2012-09-23,Newcastle,Norwich,N Swarbrick,16,8,8,3,11,19,4,5,1,1,0,0
+2008-09-20,Bolton,Arsenal,S Bennett,12,20,8,9,12,10,7,17,2,2,0,0
+2011-09-18,Tottenham,Liverpool,M Jones,24,5,16,2,10,9,4,1,1,4,0,2
+2009-08-19,Burnley,Man United,A Wiley,8,18,2,9,8,12,1,12,2,1,0,0
+2014-12-29,Liverpool,Swansea,A Marriner,21,11,11,4,8,5,6,3,1,0,0,0
+2013-12-15,Norwich,Swansea,M Oliver,16,10,3,2,12,11,8,5,0,3,0,0
+2015-12-30,Sunderland,Liverpool,K Friend,8,17,3,6,8,16,6,4,1,3,0,0
+2022-11-12,Bournemouth,Everton,C Pawson,16,15,9,3,12,8,3,5,2,0,0,0
+2010-10-23,Wigan,Bolton,H Webb,15,9,9,2,8,14,5,0,0,2,0,0
+2005-02-12,Bolton,Middlesbrough,A Wiley,13,5,8,2,11,15,3,2,0,1,0,0
+2012-04-21,Arsenal,Chelsea,M Dean,13,13,8,7,11,11,7,7,3,4,0,0
+2013-09-14,Hull,Cardiff,R Madley,18,10,5,2,8,8,6,2,1,2,0,0
+2016-04-03,Leicester,Southampton,M Oliver,11,10,4,2,12,13,7,8,2,2,0,0
+2018-12-22,West Ham,Watford,L Mason,18,11,7,5,9,11,10,4,3,2,0,0
+2017-03-04,Watford,Southampton,J Moss,16,20,4,11,16,9,6,5,3,2,0,0
+2008-01-30,Everton,Tottenham,A Marriner,11,5,6,4,14,12,7,2,1,1,0,0
+2019-08-24,Man United,Crystal Palace,P Tierney,22,5,3,3,8,18,8,1,2,4,0,0
+2022-10-01,Arsenal,Tottenham,A Taylor,22,7,9,3,10,10,5,2,2,1,0,1
+2013-03-16,Everton,Man City,L Probert,11,17,5,11,15,10,13,6,4,3,1,0
+2005-01-01,Charlton,Arsenal,M Halsey,7,8,4,5,13,15,1,2,1,1,0,0
+2017-12-02,Brighton,Liverpool,G Scott,6,12,2,6,8,7,2,2,1,0,0,0
+2004-03-21,Portsmouth,Southampton,M Halsey,16,13,8,8,16,12,6,4,0,2,0,0
+2012-03-10,Aston Villa,Fulham,J Moss,19,5,8,1,9,11,10,4,2,0,0,0
+2013-11-30,Cardiff,Arsenal,L Mason,10,15,4,6,6,8,3,3,0,3,0,0
+2019-01-29,Wolves,West Ham,D Coote,20,4,9,0,8,10,5,1,4,1,0,0
+2019-01-29,Fulham,Brighton,L Probert,24,15,7,6,10,5,10,1,2,3,0,0
+2018-02-04,Liverpool,Tottenham,J Moss,9,13,3,6,15,9,3,7,3,1,0,0
+2020-12-20,Man United,Leeds,A Taylor,26,17,14,3,6,6,11,13,1,0,0,0
+2005-08-14,Arsenal,Newcastle,S Bennett,15,2,12,1,15,17,8,3,0,1,0,1
+2010-02-06,Liverpool,Everton,M Atkinson,9,6,4,3,11,23,8,8,3,3,1,1
+2005-05-01,Charlton,Man United,D Gallagher,6,18,4,12,6,15,1,7,0,2,1,0
+2007-05-06,Arsenal,Chelsea,A Wiley,7,9,4,4,19,13,3,7,1,2,0,1
+2013-02-09,Southampton,Man City,M Atkinson,13,7,7,4,9,13,6,6,1,2,0,0
+2005-04-30,Fulham,Everton,S Bennett,11,11,6,4,18,16,3,7,1,3,1,0
+2004-08-25,Charlton,Aston Villa,H Webb,7,9,5,4,6,7,4,12,0,1,0,0
+2022-04-19,Liverpool,Man United,M Atkinson,14,2,5,1,3,6,10,2,1,2,0,0
+2010-09-11,West Ham,Chelsea,C Foy,13,17,7,9,13,10,1,5,2,2,0,0
+2012-03-12,Arsenal,Newcastle,H Webb,21,5,13,3,11,12,6,3,2,3,0,0
+2021-05-03,West Brom,Wolves,P Tierney,10,20,4,10,17,11,5,6,2,0,0,0
+2011-12-10,Liverpool,QPR,L Mason,21,6,15,2,12,5,17,5,2,0,0,0
+2015-04-06,Crystal Palace,Man City,M Oliver,5,22,3,4,11,11,4,13,2,1,0,0
+2019-12-05,Arsenal,Brighton,G Scott,12,20,5,9,10,11,9,9,3,1,0,0
+2014-01-01,Liverpool,Hull,C Pawson,17,10,6,0,15,15,3,4,1,2,0,0
+2014-04-05,Newcastle,Man United,K Friend,14,8,4,4,16,6,4,5,1,0,0,0
+2007-12-22,Bolton,Birmingham,C Foy,10,4,6,1,14,18,7,2,3,2,0,0
+2004-10-02,West Brom,Bolton,M Clattenburg,13,16,7,7,18,15,6,5,0,0,0,0
+2020-06-24,Norwich,Everton,A Madley,9,12,1,5,8,13,6,5,0,1,0,0
+2014-04-06,Everton,Arsenal,M Atkinson,14,15,8,5,6,5,3,6,1,2,0,0
+2017-02-12,Burnley,Chelsea,K Friend,6,13,4,2,12,11,1,1,3,2,0,0
+2015-02-21,Hull,QPR,A Taylor,16,8,6,3,18,16,5,7,0,4,0,1
+2011-01-05,Wolves,Chelsea,M Halsey,3,17,2,8,15,12,4,9,0,1,0,0
+2015-10-17,Tottenham,Liverpool,C Pawson,13,12,4,3,15,11,8,6,1,2,0,0
+2021-03-03,Burnley,Leicester,A Madley,12,15,7,4,6,12,5,8,0,2,0,0
+2010-11-20,Bolton,Newcastle,H Webb,18,6,9,1,13,9,2,3,0,2,0,1
+2007-04-28,Man City,Aston Villa,M Halsey,14,15,7,7,14,8,5,6,1,0,0,0
+2018-01-13,Newcastle,Swansea,G Scott,12,8,4,5,11,10,4,5,0,3,0,0
+2011-08-14,West Brom,Man United,M Jones,14,11,8,5,16,9,6,5,3,2,0,0
+2019-02-09,Huddersfield,Arsenal,J Moss,15,9,6,4,17,12,5,0,3,2,0,0
+2012-08-26,Stoke,Arsenal,L Mason,7,16,4,6,9,9,0,11,2,0,0,0
+2012-11-24,Man United,QPR,L Probert,15,10,10,6,6,10,9,7,1,1,0,0
+2003-12-06,Man United,Aston Villa,S Dunn,12,10,8,3,6,11,6,5,0,1,0,0
+2019-08-31,Man City,Brighton,J Moss,15,6,6,2,10,6,8,1,1,1,0,0
+2016-04-16,West Brom,Watford,M Oliver,16,11,4,4,11,17,9,3,0,3,0,0
+2022-10-02,Man City,Man United,M Oliver,22,12,10,8,3,9,5,1,0,3,0,0
+2006-11-18,Arsenal,Newcastle,M Atkinson,23,2,10,1,10,9,11,1,2,5,0,0
+2008-10-20,Newcastle,Man City,R Styles,6,20,2,8,15,15,5,10,0,2,1,0
+2018-12-02,Arsenal,Tottenham,M Dean,22,11,7,6,15,17,8,5,3,3,0,1
+2010-03-27,West Ham,Stoke,A Marriner,17,12,7,7,14,17,6,7,0,2,0,0
+2020-06-27,Aston Villa,Wolves,C Pawson,11,9,1,2,16,16,2,2,1,1,0,0
+2008-01-12,Derby,Wigan,M Clattenburg,2,12,1,4,12,16,1,6,1,2,1,0
+2012-11-03,Man United,Arsenal,M Dean,11,7,7,3,13,13,6,1,5,3,0,1
+2005-04-03,Fulham,Portsmouth,M Clattenburg,12,8,7,4,14,10,5,5,3,3,0,0
+2021-02-23,Leeds,Southampton,A Marriner,11,13,7,5,11,13,2,4,1,2,0,0
+2010-04-25,Aston Villa,Birmingham,M Atkinson,10,16,6,14,12,16,7,5,1,4,0,0
+2018-09-29,Man City,Brighton,L Mason,28,4,8,1,4,10,10,3,0,3,0,0
+2009-04-04,West Ham,Sunderland,M Jones,16,14,11,9,10,7,11,8,1,1,0,0
+2014-12-13,Arsenal,Newcastle,L Mason,17,10,4,4,14,15,9,6,2,2,0,0
+2004-12-04,Portsmouth,West Brom,P Walton,14,10,10,4,14,14,8,3,0,2,0,0
+2018-09-29,Chelsea,Liverpool,A Marriner,10,13,4,6,7,9,4,4,0,2,0,0
+2018-12-16,Southampton,Arsenal,C Kavanagh,12,13,7,4,12,10,4,5,3,1,0,0
+2006-12-09,Middlesbrough,Wigan,S Bennett,13,8,7,3,10,7,7,4,2,1,0,0
+2019-12-14,Liverpool,Watford,A Marriner,16,8,6,2,8,6,6,3,2,1,0,0
+2004-12-28,Fulham,Birmingham,M Clattenburg,10,6,7,5,9,13,7,3,1,0,0,0
+2018-10-28,Burnley,Chelsea,C Pawson,7,24,1,8,14,10,4,4,4,2,0,0
+2014-04-06,West Ham,Liverpool,A Taylor,11,17,1,8,10,9,4,4,4,0,0,0
+2004-12-18,Middlesbrough,Aston Villa,A D'Urso,9,14,8,6,6,18,5,6,0,1,0,0
+2006-03-19,Fulham,Chelsea,M Dean,7,10,4,4,12,13,0,16,1,4,0,1
+2007-05-13,Man United,West Ham,M Atkinson,28,6,20,4,13,11,14,3,0,2,0,0
+2009-12-12,Hull,Blackburn,C Foy,9,14,7,9,14,19,3,4,1,2,0,0
+2006-12-23,Wigan,Chelsea,M Dean,14,8,6,5,10,10,3,6,3,4,0,0
+2008-01-12,West Ham,Fulham,M Riley,12,9,9,2,19,13,8,7,0,1,0,0
+2015-01-31,Sunderland,Burnley,L Mason,8,13,3,4,12,12,6,3,3,1,0,0
+2006-11-11,Chelsea,Watford,H Webb,14,2,8,1,13,14,9,4,1,1,0,0
+2018-12-22,Arsenal,Burnley,K Friend,10,7,6,2,10,14,1,3,2,5,0,0
+2021-02-02,Wolves,Arsenal,C Pawson,11,9,7,3,11,8,9,6,3,2,0,2
+2017-08-26,Crystal Palace,Swansea,A Marriner,16,7,3,3,9,6,1,1,4,1,0,0
+2009-03-01,Bolton,Newcastle,A Wiley,10,19,6,11,14,9,1,10,2,3,0,0
+2022-11-12,Tottenham,Leeds,M Salisbury,14,12,8,5,8,7,9,2,1,1,0,1
+2018-04-08,Arsenal,Southampton,A Marriner,13,15,7,8,11,7,8,6,2,1,1,1
+2006-03-12,Charlton,Middlesbrough,A Wiley,5,9,3,7,16,20,0,4,2,1,0,0
+2008-12-20,Bolton,Portsmouth,M Atkinson,19,8,10,5,14,16,6,3,1,1,0,0
+2006-01-21,Birmingham,Portsmouth,C Foy,9,10,6,4,11,23,7,2,1,1,0,0
+2017-11-25,Crystal Palace,Stoke,M Dean,10,9,5,3,9,5,5,2,1,1,0,0
+2011-01-04,Man United,Stoke,M Clattenburg,18,5,7,1,6,11,6,1,0,0,0,0
+2015-08-15,Southampton,Everton,M Oliver,17,10,4,4,11,10,9,9,4,2,0,0
+2004-01-17,Southampton,Leeds,A Wiley,18,11,6,6,16,8,1,6,1,1,0,0
+2016-01-24,Everton,Swansea,A Taylor,20,7,2,5,5,12,7,1,0,3,0,0
+2018-12-08,West Ham,Crystal Palace,A Taylor,13,8,6,4,10,8,5,3,1,2,0,0
+2012-08-18,West Brom,Liverpool,P Dowd,15,14,10,7,10,11,7,3,1,4,0,1
+2005-08-28,Newcastle,Man United,H Webb,9,11,4,5,26,16,5,3,1,2,0,0
+2003-12-20,Everton,Leicester,P Dowd,15,6,8,4,13,18,11,7,2,3,0,0
+2019-12-21,Newcastle,Crystal Palace,S Hooper,8,16,3,4,12,11,4,5,2,0,0,0
+2011-04-09,Man United,Fulham,M Jones,16,12,12,5,12,8,8,3,0,0,0,0
+2003-10-25,Aston Villa,Everton,A D'Urso,16,8,6,2,11,12,9,3,0,1,0,0
+2017-05-21,Burnley,West Ham,R Madley,9,14,1,4,11,14,2,5,2,2,0,0
+2017-01-31,Burnley,Leicester,M Dean,24,13,3,5,4,8,10,2,1,0,0,0
+2017-10-01,Arsenal,Brighton,K Friend,25,9,12,1,7,8,6,5,0,2,0,0
+2003-11-22,Southampton,Chelsea,D Gallagher,13,8,3,4,7,13,3,3,0,1,0,0
+2006-02-26,Liverpool,Man City,D Gallagher,20,6,12,3,4,16,12,2,0,2,0,1
+2020-07-12,Aston Villa,Crystal Palace,M Atkinson,12,9,9,5,21,21,5,1,2,4,0,1
+2018-01-13,Huddersfield,West Ham,J Moss,8,8,2,6,7,9,7,3,1,1,0,0
+2004-09-25,Middlesbrough,Chelsea,M Halsey,8,17,4,12,10,15,3,7,0,1,0,0
+2022-05-15,West Ham,Man City,A Taylor,6,31,2,8,9,5,4,9,3,1,0,0
+2018-08-12,Arsenal,Man City,M Oliver,9,17,3,8,11,14,2,9,2,2,0,0
+2022-01-02,Brentford,Aston Villa,C Pawson,10,16,4,5,17,11,3,7,2,2,0,0
+2015-08-22,West Ham,Bournemouth,J Moss,10,15,4,7,8,11,5,4,0,0,1,0
+2007-11-05,Man City,Sunderland,A Wiley,7,8,3,2,11,14,2,3,0,1,0,0
+2015-03-22,Liverpool,Man United,M Atkinson,7,6,1,4,14,17,2,3,2,2,1,0
+2022-10-16,Liverpool,Man City,A Taylor,13,16,2,6,10,7,5,6,3,1,0,0
+2021-05-23,Leeds,West Brom,D Coote,17,14,9,5,12,12,8,3,2,1,0,0
+2018-12-04,Watford,Man City,P Tierney,11,15,7,7,4,8,3,11,0,1,0,0
+2009-08-22,Arsenal,Portsmouth,S Bennett,19,9,16,4,9,10,8,4,1,0,0,0
+2003-11-10,Blackburn,Everton,P Dowd,18,8,12,2,16,9,12,3,3,2,0,0
+2010-04-10,West Ham,Sunderland,M Jones,10,9,6,7,12,20,2,7,1,3,0,0
+2014-11-09,Sunderland,Everton,L Mason,10,16,3,7,11,13,5,4,1,2,0,0
+2005-04-20,Aston Villa,Charlton,B Knight,13,12,5,3,14,9,6,5,0,1,0,0
+2010-10-03,Liverpool,Blackpool,M Jones,19,11,10,7,11,10,5,2,2,1,0,0
+2017-01-15,Everton,Man City,M Clattenburg,6,13,4,5,17,7,3,6,2,2,0,0
+2009-04-11,Chelsea,Bolton,P Walton,20,14,9,6,11,17,8,4,0,0,0,0
+2003-12-13,Liverpool,Southampton,P Durkin,18,8,10,4,6,8,9,5,0,0,0,0
+2010-01-16,Wolves,Wigan,H Webb,9,20,4,14,14,16,4,3,4,3,1,1
+2011-04-16,West Brom,Chelsea,L Probert,12,19,6,11,7,10,3,5,1,0,0,0
+2015-05-24,Everton,Tottenham,J Moss,9,16,1,3,12,8,3,5,1,2,0,0
+2015-05-18,West Brom,Chelsea,M Jones,9,12,5,3,12,11,3,4,3,2,0,1
+2007-10-07,Liverpool,Tottenham,M Halsey,21,11,9,6,18,10,5,3,0,1,0,0
+2021-09-11,Arsenal,Norwich,M Oliver,30,10,7,1,9,11,8,4,1,2,0,0
+2022-05-10,Aston Villa,Liverpool,J Moss,9,17,4,6,10,12,2,3,0,0,0,0
+2009-08-15,Everton,Arsenal,M Halsey,8,15,5,9,11,13,4,9,0,0,0,0
+2016-08-19,Man United,Southampton,A Taylor,12,13,5,1,11,8,4,0,0,0,0,0
+2009-12-19,Blackburn,Tottenham,P Walton,13,7,9,2,7,6,5,0,0,1,0,0
+2021-03-06,Burnley,Arsenal,A Marriner,9,15,5,3,5,12,2,4,1,1,0,0
+2022-10-23,Leeds,Fulham,A Taylor,14,11,5,5,12,8,3,6,1,1,0,0
+2010-09-19,Chelsea,Blackpool,M Clattenburg,27,11,15,4,7,4,9,6,1,2,0,0
+2018-01-20,West Ham,Bournemouth,M Atkinson,12,8,4,3,8,7,6,3,3,1,0,0
+2022-01-15,Norwich,Everton,A Madley,14,12,3,5,12,14,8,8,3,1,0,0
+2006-04-03,Blackburn,Wigan,P Dowd,11,12,5,4,13,19,12,3,0,2,0,0
+2012-10-07,Liverpool,Stoke,L Mason,16,5,5,3,9,16,5,5,0,6,0,0
+2022-05-11,Watford,Everton,M Dean,6,16,0,5,5,12,1,13,1,2,0,0
+2011-09-17,Bolton,Norwich,H Webb,7,11,7,5,8,8,6,9,3,1,1,0
+2013-04-27,Southampton,West Brom,R Madley,16,11,4,9,9,11,7,6,2,2,2,1
+2012-03-21,Tottenham,Stoke,M Jones,24,8,18,2,10,10,13,1,1,1,0,0
+2005-05-15,Newcastle,Chelsea,H Webb,8,12,4,7,11,17,6,4,4,4,0,0
+2008-12-13,Man City,Everton,M Halsey,7,11,4,4,10,7,5,7,0,1,0,0
+2007-01-13,Blackburn,Arsenal,C Foy,13,6,7,4,15,5,8,2,4,0,0,1
+2021-11-27,Crystal Palace,Aston Villa,M Salisbury,8,10,3,3,12,10,7,3,3,3,0,0
+2008-05-11,West Ham,Aston Villa,M Dean,16,13,8,8,9,21,7,8,2,2,0,0
+2006-10-28,Bolton,Man United,R Styles,8,15,3,10,18,11,7,2,2,2,0,0
+2009-10-31,Bolton,Chelsea,P Walton,15,27,6,17,9,7,8,10,1,1,1,0
+2021-09-17,Newcastle,Leeds,M Dean,17,22,7,9,9,11,4,5,2,2,0,0
+2020-07-09,Aston Villa,Man United,J Moss,9,14,1,6,7,13,3,5,2,3,0,0
+2017-12-12,Crystal Palace,Watford,L Mason,14,7,4,2,14,18,4,6,2,1,0,1
+2016-09-10,West Ham,Watford,M Atkinson,19,13,4,8,10,15,4,4,2,2,0,0
+2008-08-16,West Ham,Wigan,S Bennett,15,22,8,9,14,11,6,10,2,1,0,0
+2021-09-11,Brentford,Brighton,G Scott,7,4,1,2,9,12,1,6,3,2,0,0
+2005-12-17,Everton,Bolton,A Wiley,13,7,10,5,13,15,10,0,2,2,0,0
+2021-01-30,West Brom,Fulham,A Taylor,5,12,3,7,9,10,2,3,1,0,0,0
+2022-05-22,Chelsea,Watford,M Dean,19,8,8,3,9,9,3,3,0,0,0,0
+2019-04-23,Tottenham,Brighton,C Kavanagh,29,6,5,1,7,13,6,3,1,2,0,0
+2014-09-27,Crystal Palace,Leicester,K Stroud,16,7,6,1,14,9,6,6,0,2,0,0
+2014-01-01,Swansea,Man City,P Dowd,15,14,4,4,5,10,8,6,2,5,0,0
+2006-08-19,Bolton,Tottenham,P Dowd,8,9,6,6,19,22,6,3,0,1,0,0
+2009-08-22,Sunderland,Blackburn,A Wiley,8,18,5,5,12,14,0,10,2,1,0,0
+2012-04-16,Arsenal,Wigan,A Marriner,18,12,8,7,15,13,9,3,2,3,0,0
+2005-04-23,Blackburn,Man City,�C Foy,11,7,5,1,20,17,6,2,0,0,0,0
+2008-09-13,Portsmouth,Middlesbrough,S Attwell,21,7,12,3,8,6,3,2,2,1,0,0
+2015-01-10,Chelsea,Newcastle,R East,9,11,5,5,13,13,7,4,2,3,0,0
+2013-12-01,Tottenham,Man United,M Dean,10,8,4,3,9,15,7,7,1,3,0,0
+2016-08-27,Crystal Palace,Bournemouth,M Dean,24,10,5,3,15,10,10,4,2,1,0,0
+2018-10-27,Leicester,West Ham,M Oliver,21,11,7,3,17,5,8,0,1,1,0,1
+2010-11-06,Sunderland,Stoke,M Atkinson,14,11,7,5,10,13,6,9,0,5,0,0
+2019-12-26,Everton,Burnley,A Taylor,21,6,5,0,15,14,10,2,0,0,0,0
+2015-01-17,Newcastle,Southampton,R Madley,16,5,3,3,9,8,9,0,0,2,0,0
+2005-04-19,Middlesbrough,Fulham,R Styles,8,7,4,2,11,12,2,6,1,0,0,0
+2015-04-29,Leicester,Chelsea,M Clattenburg,8,11,2,4,10,1,2,6,1,0,0,0
+2007-03-17,Man United,Bolton,A Wiley,15,7,7,0,14,13,1,5,1,2,0,0
+2004-04-10,Bolton,Aston Villa,M Messias,16,7,7,3,10,12,6,4,1,3,0,0
+2005-08-28,Middlesbrough,Charlton,M Dean,10,12,6,8,18,15,6,1,2,1,0,0
+2013-12-07,Stoke,Chelsea,J Moss,9,15,3,6,14,8,5,2,4,1,0,0
+2010-11-09,Tottenham,Sunderland,H Webb,20,8,12,4,6,15,17,3,2,1,0,0
+2020-03-01,Tottenham,Wolves,S Attwell,13,14,5,4,12,14,4,5,3,2,0,0
+2014-10-18,Southampton,Sunderland,A Marriner,20,12,11,1,11,8,5,6,1,3,0,0
+2021-01-12,Wolves,Everton,M Atkinson,12,5,3,3,6,11,6,5,2,2,0,0
+2003-12-26,Charlton,Chelsea,G Poll,8,15,4,8,14,10,8,6,1,1,0,0
+2005-04-16,Southampton,Aston Villa,A D'Urso,16,11,8,7,10,17,5,8,1,2,0,0
+2006-11-25,Bolton,Arsenal,M Dean,10,14,8,7,11,8,7,11,3,4,0,0
+2019-04-03,Man City,Cardiff,J Moss,27,4,11,1,3,17,7,4,0,3,0,0
+2017-12-09,Newcastle,Leicester,N Swarbrick,10,13,4,5,10,9,6,5,2,1,0,0
+2009-09-12,Portsmouth,Bolton,C Foy,21,14,11,6,17,17,7,5,2,0,0,0
+2016-12-26,Arsenal,West Brom,N Swarbrick,26,3,11,1,11,7,6,5,2,1,0,0
+2006-12-16,Arsenal,Portsmouth,S Bennett,14,7,8,5,13,13,7,4,0,2,0,0
+2017-03-19,Tottenham,Southampton,A Marriner,12,8,6,3,12,13,5,1,3,3,0,0
+2013-10-27,Swansea,West Ham,P Dowd,10,15,5,4,12,14,9,6,1,3,0,0
+2007-11-03,Fulham,Reading,M Clattenburg,9,13,7,6,11,6,8,9,3,0,1,0
+2020-09-27,Sheffield United,Leeds,P Tierney,14,17,4,9,18,4,5,7,2,1,0,0
+2010-10-23,Tottenham,Everton,M Jones,13,7,8,3,15,14,4,4,3,1,0,0
+2004-08-28,Man City,Charlton,M Halsey,16,6,10,3,11,8,6,4,0,1,0,0
+2009-04-26,Blackburn,Wigan,P Walton,14,17,8,8,11,11,3,9,0,0,0,0
+2011-02-05,Man City,West Brom,M Atkinson,13,17,9,9,13,10,8,8,1,2,0,0
+2011-11-05,QPR,Man City,M Atkinson,18,16,9,8,5,14,3,1,1,1,0,0
+2014-01-28,Swansea,Fulham,M Oliver,14,15,7,4,14,9,5,8,1,1,0,0
+2021-09-11,Chelsea,Aston Villa,S Attwell,12,18,4,6,11,11,4,11,1,4,0,0
+2013-10-19,Man United,Southampton,M Jones,12,18,5,7,10,19,4,4,2,3,0,0
+2011-03-05,Bolton,Aston Villa,K Friend,15,10,9,6,18,11,8,5,5,2,0,0
+2012-04-01,Newcastle,Liverpool,M Atkinson,11,9,7,6,10,11,3,6,3,3,0,1
+2014-11-09,West Brom,Newcastle,C Pawson,10,8,2,3,12,6,7,4,0,0,0,0
+2015-04-05,Burnley,Tottenham,M Atkinson,15,12,4,2,9,5,5,3,2,0,0,0
+2021-08-28,Liverpool,Chelsea,A Taylor,24,6,7,3,13,4,12,3,0,2,0,1
+2017-02-04,Watford,Burnley,M Oliver,16,11,7,7,12,10,3,6,5,0,0,1
+2006-03-29,Man United,West Ham,G Poll,23,9,13,3,10,12,3,6,0,0,0,0
+2014-02-08,Swansea,Cardiff,A Marriner,17,7,6,1,7,8,5,1,1,1,0,0
+2019-12-07,Bournemouth,Liverpool,C Kavanagh,3,21,0,9,5,6,1,3,0,1,0,0
+2010-11-06,Man United,Wolves,P Dowd,14,8,10,6,6,11,3,2,1,0,0,0
+2008-05-11,Sunderland,Arsenal,K Stroud,13,12,5,8,14,12,3,4,1,1,0,0
+2012-01-21,Norwich,Chelsea,M Clattenburg,5,19,3,9,5,4,1,11,0,0,0,0
+2009-05-24,Wigan,Portsmouth,P Dowd,19,9,10,3,8,21,8,2,0,4,0,0
+2011-12-03,Man City,Norwich,H Webb,21,5,16,2,8,7,12,4,0,1,0,0
+2011-12-18,Man City,Arsenal,P Dowd,15,12,9,8,13,10,4,6,2,3,0,0
+2010-10-17,Blackpool,Man City,P Dowd,16,13,5,8,9,9,3,9,0,2,0,0
+2021-04-10,Crystal Palace,Chelsea,M Oliver,1,23,1,10,7,12,0,8,1,0,0,0
+2005-04-02,Man United,Blackburn,M Riley,23,9,9,3,21,18,9,3,3,2,0,0
+2007-11-24,Middlesbrough,Aston Villa,K Stroud,15,11,8,8,16,17,11,6,2,1,0,0
+2016-03-12,Stoke,Southampton,L Mason,13,11,2,4,13,12,1,4,1,2,0,1
+2017-05-16,Arsenal,Sunderland,R East,36,6,13,2,15,10,17,3,4,2,0,0
+2011-05-08,Wolves,West Brom,M Dean,14,14,10,6,9,7,8,4,3,1,0,0
+2004-12-28,Charlton,Everton,M Riley,12,5,8,3,13,11,8,2,0,0,0,1
+2013-08-17,West Ham,Cardiff,H Webb,18,12,4,1,10,7,4,3,0,1,0,0
+2004-09-13,Charlton,Southampton,N Barry,8,12,4,7,12,13,9,10,0,1,0,0
+2009-12-20,West Ham,Chelsea,M Dean,6,20,5,6,17,16,5,5,4,3,0,0
+2008-02-10,Chelsea,Liverpool,M Riley,5,10,3,4,14,18,6,4,3,2,0,0
+2003-12-26,Liverpool,Bolton,J Winter,13,7,8,2,10,18,7,1,0,2,0,0
+2020-07-01,Arsenal,Norwich,P Bankes,13,8,8,2,10,10,6,2,1,4,0,0
+2015-12-20,Swansea,West Ham,L Mason,21,11,2,2,6,9,8,9,0,1,0,0
+2015-10-31,West Brom,Leicester,A Taylor,14,13,6,5,3,11,6,4,0,2,0,0
+2015-04-12,QPR,Chelsea,A Marriner,15,9,4,1,12,6,5,6,2,1,0,0
+2011-01-16,Tottenham,Man United,M Dean,16,7,6,4,9,18,8,2,2,4,0,1
+2019-03-09,Leicester,Fulham,D Coote,18,6,8,3,9,13,6,5,0,2,0,0
+2009-01-28,Man City,Newcastle,M Jones,14,2,7,1,8,11,7,0,1,2,0,0
+2005-03-19,Tottenham,Man City,B Knight,12,11,9,7,13,13,6,4,2,3,0,0
+2018-08-20,Crystal Palace,Liverpool,M Oliver,8,16,2,6,6,13,6,7,1,1,1,0
+2009-10-18,Wigan,Man City,A Wiley,13,5,7,4,15,11,6,6,2,1,0,1
+2007-09-01,Man United,Sunderland,M Atkinson,17,4,9,1,10,7,6,0,1,2,0,0
+2010-10-16,Man United,West Brom,M Jones,16,7,9,2,10,7,3,2,1,2,0,0
+2016-11-19,Stoke,Bournemouth,R East,14,9,6,2,17,10,3,4,3,2,0,0
+2007-02-03,Middlesbrough,Arsenal,M Riley,3,11,1,4,14,5,3,6,2,1,0,1
+2014-03-29,Stoke,Hull,N Swarbrick,15,5,3,3,9,9,8,1,2,0,0,0
+2017-04-01,Liverpool,Everton,A Taylor,10,9,6,4,17,10,2,3,1,3,0,0
+2021-01-02,Tottenham,Leeds,D Coote,20,18,7,5,15,13,3,5,2,1,1,0
+2009-10-03,Bolton,Tottenham,M Jones,12,17,9,9,15,16,5,6,2,1,0,0
+2004-01-10,Birmingham,Southampton,S Bennett,11,9,6,6,14,23,7,10,0,1,0,1
+2022-08-22,Man United,Liverpool,M Oliver,12,17,4,5,11,7,6,8,3,1,0,0
+2004-05-15,Bolton,Fulham,G Barber,17,10,9,6,9,14,11,3,1,1,0,0
+2013-04-14,Newcastle,Sunderland,H Webb,15,8,9,7,14,7,10,9,3,2,0,0
+2018-05-05,Leicester,West Ham,C Kavanagh,13,13,2,3,8,9,8,3,1,2,0,0
+2008-02-23,Birmingham,Arsenal,M Dean,2,26,1,13,9,13,1,7,0,2,1,0
+2019-01-29,Arsenal,Cardiff,M Dean,15,19,4,2,14,12,4,7,3,3,0,0
+2018-04-14,Swansea,Everton,L Mason,17,12,7,3,10,11,6,3,1,1,0,0
+2004-03-20,Middlesbrough,Birmingham,U Rennie,13,18,9,12,11,13,4,4,2,0,0,0
+2003-11-09,Man City,Leicester,M Riley,14,6,4,3,7,12,12,3,2,2,0,0
+2016-02-13,Crystal Palace,Watford,R East,14,10,7,3,11,16,8,5,0,2,0,0
+2004-11-20,Portsmouth,Man City,M Messias,9,18,7,13,8,14,8,11,3,0,0,0
+2011-12-26,Bolton,Newcastle,P Walton,4,12,3,7,9,11,4,4,1,1,0,0
+2006-11-29,Man United,Everton,M Halsey,18,7,6,4,15,15,3,2,1,1,0,0
+2009-12-05,Blackburn,Liverpool,M Atkinson,9,15,3,11,15,9,1,8,1,0,0,0
+2021-12-05,Man United,Crystal Palace,C Pawson,16,8,3,2,16,9,9,6,2,2,0,0
+2015-11-29,Liverpool,Swansea,A Taylor,10,8,2,0,12,6,8,7,3,1,0,0
+2020-07-26,Man City,Norwich,C Pawson,31,5,10,4,7,4,9,0,1,1,0,0
+2020-01-21,Sheffield United,Man City,L Mason,4,18,1,5,13,13,5,13,4,3,0,0
+2011-10-23,Blackburn,Tottenham,S Attwell,19,9,8,7,19,7,8,5,4,1,0,0
+2020-11-21,Man United,West Brom,D Coote,17,7,7,2,12,17,8,2,1,1,0,0
+2019-01-12,Cardiff,Huddersfield,L Mason,3,14,0,2,12,14,3,10,3,1,0,0
+2018-02-10,Everton,Crystal Palace,J Moss,11,16,5,4,14,15,8,7,1,1,0,0
+2019-09-01,Everton,Wolves,A Taylor,15,8,6,5,12,12,7,7,1,4,0,1
+2005-11-05,Portsmouth,Wigan,M Clattenburg,7,7,4,5,11,13,5,8,1,2,0,0
+2012-08-19,Man City,Southampton,H Webb,20,9,15,6,4,6,7,3,1,2,0,0
+2015-02-10,Arsenal,Leicester,M Jones,17,11,7,4,13,14,6,6,2,2,0,0
+2017-04-25,Chelsea,Southampton,L Mason,17,12,7,4,13,9,6,7,2,2,0,0
+2011-04-30,Blackburn,Bolton,M Dean,17,11,8,3,7,9,3,10,2,1,0,0
+2006-09-17,West Ham,Newcastle,R Styles,10,16,7,9,11,11,5,6,3,3,0,0
+2005-10-29,Sunderland,Portsmouth,M Halsey,5,5,2,5,11,9,11,2,0,1,0,0
+2020-09-19,Everton,West Brom,M Dean,17,6,7,4,9,11,11,1,1,0,0,1
+2018-04-14,Southampton,Chelsea,M Dean,10,17,7,5,13,14,4,7,5,3,0,0
+2014-02-01,Hull,Tottenham,A Taylor,9,19,4,3,13,9,4,10,1,1,0,0
+2017-08-19,Southampton,West Ham,L Mason,14,16,5,8,18,10,7,2,1,1,0,1
+2004-02-29,Portsmouth,Newcastle,A D'Urso,18,5,8,2,9,9,8,6,2,2,0,0
+2021-09-11,Watford,Wolves,P Bankes,6,14,2,5,15,13,6,8,3,3,0,0
+2016-05-01,Man United,Leicester,M Oliver,21,14,6,3,16,10,6,5,3,0,0,1
+2011-10-15,Stoke,Fulham,M Atkinson,14,4,6,1,14,15,5,2,4,4,0,0
+2010-12-29,Liverpool,Wolves,P Walton,9,7,5,3,8,11,2,8,1,1,0,0
+2019-12-07,Watford,Crystal Palace,M Atkinson,13,3,3,0,15,16,6,2,4,2,0,0
+2016-01-12,Newcastle,Man United,M Dean,14,12,6,4,10,12,5,3,1,3,0,0
+2018-09-02,Watford,Tottenham,A Marriner,7,11,3,2,9,8,3,10,2,1,0,0
+2009-10-24,Tottenham,Stoke,L Probert,22,8,12,2,8,18,7,1,0,3,0,0
+2007-01-01,Newcastle,Man United,R Styles,8,20,8,8,11,10,1,10,1,2,0,0
+2017-12-17,Bournemouth,Liverpool,A Marriner,6,21,2,7,5,10,2,3,1,1,0,0
+2022-08-13,Aston Villa,Everton,M Oliver,12,15,4,4,9,7,5,8,4,1,0,0
+2011-08-20,Sunderland,Newcastle,H Webb,15,12,5,10,17,7,7,6,3,3,1,0
+2016-12-18,Tottenham,Burnley,K Friend,30,5,9,2,10,11,11,2,1,2,0,0
+2003-11-30,Man City,Middlesbrough,M Riley,24,2,14,0,15,12,12,0,0,0,0,0
+2014-01-29,Aston Villa,West Brom,M Clattenburg,10,12,6,4,15,10,3,3,1,3,0,0
+2015-10-24,Norwich,West Brom,K Friend,16,7,3,4,11,6,13,3,1,2,0,0
+2014-02-02,West Brom,Liverpool,K Friend,12,12,4,3,13,15,3,4,4,2,0,0
+2019-10-21,Sheffield United,Arsenal,M Dean,8,9,2,3,10,12,7,12,4,4,0,0
+2006-10-28,Arsenal,Everton,M Riley,26,2,12,2,6,21,16,3,2,3,0,0
+2022-04-24,Brighton,Southampton,R Jones,8,18,5,5,12,7,6,6,1,0,0,0
+2008-09-27,Middlesbrough,West Brom,C Foy,22,14,13,9,14,13,11,8,2,4,0,0
+2008-12-28,Arsenal,Portsmouth,A Wiley,11,4,7,3,9,9,11,2,0,1,0,0
+2014-02-01,West Ham,Swansea,H Webb,11,20,4,0,7,7,8,11,1,0,1,0
+2018-10-06,Leicester,Everton,A Marriner,8,17,2,8,10,11,2,10,2,1,1,0
+2012-09-22,Wigan,Fulham,L Probert,18,12,9,9,7,13,8,7,0,3,0,0
+2010-02-06,Man United,Portsmouth,L Mason,21,7,8,5,9,11,12,1,1,4,0,0
+2004-01-18,Aston Villa,Arsenal,M Halsey,12,13,5,9,17,21,3,2,4,1,0,0
+2005-09-24,Everton,Wigan,R Styles,14,11,7,3,17,21,11,3,2,1,0,0
+2010-05-02,Liverpool,Chelsea,A Wiley,7,15,2,11,7,7,9,5,1,2,0,0
+2013-05-12,Sunderland,Southampton,M Dean,5,15,5,10,9,10,3,10,0,2,0,0
+2007-12-08,Man United,Derby,C Foy,23,10,12,6,12,12,9,3,0,2,0,0
+2012-03-21,Man City,Chelsea,M Dean,20,6,10,5,8,7,11,4,1,2,0,0
+2011-01-05,Bolton,Wigan,P Dowd,14,10,7,7,9,8,8,4,0,4,0,0
+2004-08-21,Southampton,Blackburn,A D'Urso,13,10,7,6,12,18,3,6,0,3,0,0
+2014-12-26,Everton,Stoke,L Mason,16,12,5,2,9,15,9,3,2,3,0,0
+2009-04-27,Newcastle,Portsmouth,M Riley,13,15,8,7,13,8,7,10,2,2,0,0
+2012-12-26,Aston Villa,Tottenham,M Clattenburg,4,20,1,16,11,7,2,16,1,0,0,0
+2008-10-26,Man City,Stoke,S Tanner,18,9,12,6,12,16,6,8,1,0,0,0
+2021-05-02,Tottenham,Sheffield United,A Marriner,20,8,11,1,8,9,6,6,1,1,0,0
+2009-12-12,Tottenham,Wolves,S Attwell,18,3,10,3,8,13,1,5,0,5,0,0
+2005-01-16,Fulham,West Brom,P Walton,8,7,4,6,12,12,7,5,3,1,0,0
+2004-11-27,Birmingham,Norwich,G Poll,16,7,10,3,14,12,6,1,2,1,0,0
+2017-12-30,Chelsea,Stoke,K Friend,21,1,12,1,5,10,7,0,1,1,0,0
+2021-11-06,Brentford,Norwich,J Gillett,19,9,7,5,12,13,6,2,2,3,0,0
+2003-12-07,Everton,Man City,J Winter,9,15,2,7,11,13,3,5,1,1,0,0
+2018-02-10,West Ham,Watford,G Scott,8,11,4,4,11,7,8,7,1,1,0,0
+2021-01-17,Man City,Crystal Palace,L Mason,13,2,6,0,9,8,11,1,0,0,0,0
+2021-01-01,Everton,West Ham,K Friend,10,11,2,5,9,7,5,4,2,0,0,0
+2009-03-04,Wigan,West Ham,S Attwell,20,8,8,4,9,11,8,1,2,5,1,1
+2015-11-21,Everton,Aston Villa,M Oliver,16,10,9,3,6,9,2,3,0,0,0,0
+2015-08-15,Watford,West Brom,P Tierney,16,6,5,0,13,10,2,4,1,2,0,0
+2013-05-12,Norwich,West Brom,H Webb,11,8,8,5,10,7,8,2,2,1,0,0
+2019-12-08,Newcastle,Southampton,D Coote,12,19,6,4,11,17,3,12,1,3,0,0
+2016-09-18,Southampton,Swansea,M Jones,19,9,6,3,14,9,7,1,1,1,0,0
+2019-11-30,Tottenham,Bournemouth,L Mason,15,20,5,6,10,12,4,8,0,2,0,0
+2015-02-07,Leicester,Crystal Palace,L Mason,19,14,5,2,15,6,8,6,4,1,0,0
+2010-12-04,Arsenal,Fulham,C Foy,15,11,9,7,7,5,3,7,0,0,0,0
+2012-09-29,Everton,Southampton,L Probert,17,8,9,2,2,3,10,3,0,0,0,0
+2017-11-18,Bournemouth,Huddersfield,L Probert,11,20,5,3,13,10,8,11,3,2,1,0
+2011-10-31,Stoke,Newcastle,M Dean,10,6,4,2,8,14,8,2,0,1,0,0
+2013-12-04,Liverpool,Norwich,A Taylor,28,14,12,5,10,6,4,0,3,1,0,0
+2008-03-08,Liverpool,Newcastle,P Walton,15,6,13,4,8,7,12,8,1,0,0,0
+2006-08-26,Fulham,Sheffield United,G Poll,10,9,5,1,17,17,9,5,3,3,0,0
+2020-06-20,West Ham,Wolves,A Taylor,7,10,2,6,8,7,5,7,1,1,0,0
+2008-12-21,Newcastle,Tottenham,A Marriner,7,11,4,6,9,7,4,7,3,2,0,0
+2018-09-22,Brighton,Tottenham,C Kavanagh,8,16,4,7,15,9,5,7,2,1,0,0
+2007-12-15,Wigan,Blackburn,M Clattenburg,9,9,7,5,17,24,6,4,4,4,0,1
+2011-12-31,Norwich,Fulham,H Webb,18,11,9,6,9,6,4,3,0,0,0,0
+2021-12-29,Chelsea,Brighton,M Dean,11,18,5,6,14,7,10,8,4,1,0,0
+2004-01-31,Leicester,Aston Villa,J Winter,13,14,9,10,12,7,5,9,0,1,0,0
+2014-01-28,Southampton,Arsenal,L Mason,13,7,5,4,11,4,7,5,1,1,0,1
+2012-10-28,Everton,Liverpool,A Marriner,17,12,8,5,16,18,9,5,4,3,0,0
+2011-01-22,Wolves,Liverpool,M Atkinson,11,15,4,10,6,17,5,4,0,3,0,0
+2022-09-03,Tottenham,Fulham,S Attwell,23,9,10,3,9,6,10,3,3,4,0,0
+2018-08-11,Bournemouth,Cardiff,K Friend,12,10,4,1,11,9,7,4,1,1,0,0
+2016-08-27,Everton,Stoke,M Oliver,21,8,9,1,14,11,9,2,2,1,0,0
+2021-02-07,Sheffield United,Chelsea,K Friend,8,9,3,3,8,8,1,8,1,0,0,0
+2007-12-29,Tottenham,Reading,K Stroud,14,11,12,8,9,12,3,6,0,3,0,0
+2012-10-27,Aston Villa,Norwich,P Dowd,7,14,5,6,12,7,3,8,2,0,1,0
+2004-09-11,Fulham,Arsenal,M Halsey,9,12,7,7,16,10,9,4,2,2,0,0
+2016-12-10,Leicester,Man City,M Oliver,10,19,6,4,10,7,3,11,2,1,0,0
+2012-11-17,Norwich,Man United,A Taylor,10,12,5,9,10,7,0,12,0,1,0,0
+2017-01-04,Tottenham,Chelsea,M Atkinson,9,11,2,2,9,8,1,6,3,2,0,0
+2018-01-30,Swansea,Arsenal,L Mason,12,9,4,4,4,8,4,3,0,3,0,0
+2008-03-15,Derby,Man United,P Dowd,10,17,8,9,13,7,5,11,4,1,0,0
+2018-05-06,Chelsea,Liverpool,A Taylor,12,10,4,5,12,9,3,1,3,2,0,0
+2020-12-27,Liverpool,West Brom,K Friend,17,5,2,3,8,5,8,3,0,1,0,0
+2014-03-08,Chelsea,Tottenham,M Oliver,12,6,4,2,11,18,5,4,2,3,0,1
+2003-11-29,Portsmouth,Leicester,M Dean,12,7,7,3,12,14,11,4,5,1,0,0
+2004-02-11,Charlton,Tottenham,G Barber,18,12,14,10,13,14,10,4,3,0,0,0
+2014-12-28,QPR,Crystal Palace,M Jones,11,10,3,3,11,17,9,4,2,1,0,0
+2022-08-13,Brighton,Newcastle,G Scott,13,4,7,1,8,6,7,3,2,3,0,0
+2020-01-01,Arsenal,Man United,C Kavanagh,10,10,4,4,11,15,1,4,2,0,0,0
+2009-10-03,Hull,Wigan,M Clattenburg,11,13,6,5,14,8,4,2,0,2,0,0
+2017-11-20,Brighton,Stoke,L Mason,9,13,3,6,13,5,6,7,1,0,0,0
+2005-09-24,Bolton,Portsmouth,M Clattenburg,11,6,2,4,9,6,7,3,2,2,0,0
+2010-09-25,Liverpool,Sunderland,S Attwell,13,10,5,1,15,7,3,3,3,1,0,0
+2018-04-07,Everton,Liverpool,M Oliver,6,10,1,3,12,7,3,2,0,0,0,0
+2020-11-01,Newcastle,Everton,S Attwell,11,15,4,4,9,10,5,4,2,4,0,0
+2017-04-26,Crystal Palace,Tottenham,J Moss,6,18,1,4,13,15,2,11,3,3,0,0
+2010-12-05,Sunderland,West Ham,M Atkinson,17,8,12,2,6,8,9,3,1,3,0,0
+2014-03-08,Crystal Palace,Southampton,H Webb,6,11,1,3,14,18,8,3,1,5,0,0
+2020-10-25,Southampton,Everton,K Friend,12,6,6,2,11,11,4,5,1,2,0,1
+2018-10-07,Southampton,Chelsea,C Pawson,15,21,6,6,13,11,4,12,6,0,0,0
+2012-05-13,West Brom,Arsenal,M Jones,12,12,8,8,12,10,9,5,0,1,0,0
+2021-05-13,Aston Villa,Everton,M Atkinson,13,15,2,5,9,12,9,1,2,0,0,0
+2010-09-11,Man City,Blackburn,M Clattenburg,20,4,14,2,12,10,14,2,2,1,0,0
+2007-01-31,Chelsea,Blackburn,G Poll,18,6,15,4,12,11,3,9,0,1,0,0
+2004-12-26,Southampton,Charlton,S Dunn,12,15,4,5,7,12,5,11,1,0,0,0
+2013-10-19,Newcastle,Liverpool,A Marriner,14,23,4,7,8,10,3,13,2,3,1,0
+2007-11-03,Aston Villa,Derby,M Halsey,15,8,7,2,7,20,7,4,0,3,0,0
+2018-01-30,West Ham,Crystal Palace,N Swarbrick,8,9,3,3,11,15,5,3,1,3,0,0
+2010-12-28,West Ham,Everton,H Webb,11,13,2,5,12,15,4,7,1,0,0,0
+2006-03-25,Aston Villa,Fulham,L Mason,10,9,6,3,11,8,8,4,0,0,0,0
+2015-04-25,West Brom,Liverpool,R East,10,22,4,5,12,11,2,4,1,0,0,0
+2020-02-02,Burnley,Arsenal,C Kavanagh,15,13,2,2,8,11,5,7,1,3,0,0
+2018-03-10,West Brom,Leicester,R Madley,6,14,2,6,6,7,7,6,1,3,0,0
+2006-10-01,Tottenham,Portsmouth,C Foy,8,9,6,6,8,10,6,10,0,0,0,0
+2017-01-22,Chelsea,Hull,N Swarbrick,9,9,5,4,12,10,9,7,1,3,0,0
+2008-11-22,Stoke,West Brom,L Mason,9,8,7,2,9,7,4,1,1,0,0,0
+2020-07-02,Sheffield United,Tottenham,C Kavanagh,7,9,5,2,13,13,1,6,2,0,0,0
+2020-01-18,Southampton,Wolves,D England,11,8,5,4,13,12,1,3,2,1,0,0
+2006-04-17,Charlton,Portsmouth,H Webb,16,11,9,5,10,17,6,9,1,1,0,0
+2012-04-07,Norwich,Everton,A Marriner,14,9,11,5,7,17,2,4,0,3,0,0
+2013-11-09,Norwich,West Ham,J Moss,15,12,6,4,12,11,4,2,1,1,0,0
+2006-11-29,Liverpool,Portsmouth,A Wiley,15,3,4,1,13,13,5,1,1,3,0,0
+2013-09-14,Aston Villa,Newcastle,M Dean,10,17,1,8,9,11,4,2,1,4,0,0
+2005-08-27,West Brom,Birmingham,G Poll,15,8,8,7,11,24,3,2,1,3,0,0
+2007-09-01,Newcastle,Wigan,S Bennett,20,7,8,6,15,18,9,1,2,4,0,1
+2013-03-16,Swansea,Arsenal,J Moss,9,15,2,11,2,7,3,7,1,1,0,0
+2008-01-21,Liverpool,Aston Villa,M Clattenburg,17,4,7,3,11,15,8,2,2,2,0,0
+2021-09-11,Leicester,Man City,P Tierney,6,25,1,8,4,11,5,8,1,2,0,0
+2015-01-17,QPR,Man United,N Swarbrick,18,12,4,7,12,10,3,3,3,2,0,0
+2012-08-25,Norwich,QPR,M Clattenburg,13,6,4,4,15,14,6,2,0,2,0,0
+2003-08-16,Leicester,Southampton,M Riley,12,13,7,10,27,15,2,7,3,1,0,0
+2015-01-01,Man City,Sunderland,R East,32,4,12,4,14,7,10,4,2,3,0,0
+2019-04-24,Wolves,Arsenal,S Attwell,11,11,3,1,12,9,5,5,2,3,0,0
+2017-09-16,Huddersfield,Leicester,J Moss,15,10,3,1,6,6,8,4,1,1,0,0
+2003-12-28,Tottenham,Charlton,P Durkin,18,10,9,8,8,13,11,11,1,0,0,0
+2011-04-30,Blackpool,Stoke,M Clattenburg,11,9,6,6,10,11,4,8,0,0,0,0
+2019-01-20,Huddersfield,Man City,A Marriner,5,12,2,4,10,9,1,4,2,2,0,0
+2016-12-14,Stoke,Southampton,A Taylor,5,15,3,4,9,10,3,11,1,2,1,0
+2021-04-25,Wolves,Burnley,D England,12,14,2,7,8,9,8,5,1,2,0,0
+2009-11-22,Tottenham,Wigan,P Walton,28,11,16,5,9,11,10,5,1,0,0,0
+2003-10-25,Southampton,Blackburn,S Bennett,22,6,15,3,17,14,5,3,0,1,0,1
+2008-11-22,Middlesbrough,Bolton,M Atkinson,18,11,5,5,10,15,8,0,2,5,0,0
+2014-11-22,Arsenal,Man United,M Dean,23,12,9,2,12,8,11,5,2,1,0,0
+2021-01-14,Arsenal,Crystal Palace,A Marriner,11,12,4,2,10,11,7,3,1,1,0,0
+2019-10-06,Southampton,Chelsea,P Tierney,10,13,3,7,8,15,3,4,0,1,0,0
+2010-12-26,Newcastle,Man City,C Foy,20,9,10,6,7,15,6,3,1,5,0,0
+2006-03-18,Bolton,Sunderland,P Dowd,16,6,7,3,9,18,7,6,1,4,0,0
+2018-09-15,Bournemouth,Leicester,C Pawson,10,14,5,8,13,15,4,6,3,2,0,1
+2017-02-11,Man United,Watford,R Madley,22,9,11,3,10,12,5,1,1,0,0,0
+2017-09-17,Man United,Everton,A Marriner,16,7,7,3,15,14,4,1,1,1,0,0
+2017-12-12,Burnley,Stoke,M Jones,10,14,2,7,6,14,6,4,0,0,0,0
+2003-10-05,Aston Villa,Bolton,R Styles,14,15,8,5,14,16,9,5,1,5,0,0
+2016-11-26,Chelsea,Tottenham,M Oliver,9,12,5,6,13,16,3,8,2,1,0,0
+2012-12-29,Sunderland,Tottenham,L Mason,9,18,6,14,9,15,3,8,1,3,0,0
+2016-02-14,Arsenal,Leicester,M Atkinson,24,7,6,3,9,10,11,1,4,3,0,1
+2015-05-02,Man United,West Brom,A Taylor,26,6,9,3,10,11,9,3,1,0,0,0
+2006-12-09,Watford,Reading,C Foy,8,6,5,1,14,12,2,5,0,1,0,0
+2018-09-22,Liverpool,Southampton,P Tierney,12,7,4,1,7,10,5,4,0,2,0,0
+2016-03-02,Stoke,Newcastle,N Swarbrick,9,5,2,3,11,6,5,2,1,0,0,0
+2018-04-08,Chelsea,West Ham,K Friend,23,5,6,2,7,11,10,6,0,1,0,0
+2011-05-09,Fulham,Liverpool,L Mason,10,16,7,11,18,11,6,5,5,2,0,0
+2008-04-05,Wigan,Birmingham,M Dean,15,5,8,1,11,17,2,2,1,2,0,1
+2004-03-09,Middlesbrough,Tottenham,A D'Urso,10,10,6,2,10,15,3,5,1,1,0,0
+2022-08-20,Bournemouth,Arsenal,C Pawson,6,14,1,6,12,10,3,4,2,1,0,0
+2013-12-26,Cardiff,Southampton,A Marriner,9,11,0,6,11,13,6,3,1,2,0,0
+2013-10-20,Aston Villa,Tottenham,P Dowd,15,13,2,6,13,12,4,7,3,4,0,0
+2009-09-27,Sunderland,Wolves,L Mason,10,15,8,11,18,11,7,8,1,3,0,0
+2021-01-18,Arsenal,Newcastle,D Coote,20,4,6,1,9,8,7,2,0,0,0,0
+2018-09-23,West Ham,Chelsea,M Dean,6,17,1,6,11,9,1,8,2,1,0,0
+2021-05-01,Brighton,Leeds,C Kavanagh,17,11,5,2,17,6,2,9,1,1,0,0
+2007-09-23,Man United,Chelsea,M Dean,17,4,9,1,10,15,10,1,2,2,0,1
+2015-10-17,Watford,Arsenal,M Jones,8,17,1,6,11,12,3,9,2,1,0,0
+2014-02-01,Stoke,Man United,N Swarbrick,13,19,6,4,18,7,7,10,2,2,0,0
+2009-11-28,Fulham,Bolton,S Bennett,12,4,7,2,7,21,8,5,1,6,0,0
+2019-02-09,Watford,Everton,L Probert,7,9,2,4,21,10,8,2,2,0,0,1
+2021-12-30,Man United,Burnley,J Moss,18,10,6,3,5,10,7,5,0,0,0,0
+2006-11-29,Aston Villa,Man City,M Dean,6,11,4,8,15,11,1,5,1,0,0,0
+2017-09-16,West Brom,West Ham,P Tierney,6,9,1,1,15,7,2,3,2,2,0,0
+2021-12-01,Aston Villa,Man City,M Dean,9,17,3,7,8,12,4,11,0,0,0,0
+2018-03-31,Newcastle,Huddersfield,M Atkinson,18,4,3,0,9,10,3,3,1,4,0,0
+2008-12-06,Fulham,Man City,R Styles,12,15,8,7,6,5,9,7,2,1,0,0
+2018-03-17,Bournemouth,West Brom,G Scott,17,11,5,6,6,9,3,2,1,2,0,0
+2016-10-15,West Brom,Tottenham,K Friend,8,20,4,8,14,10,5,8,2,2,0,0
+2013-05-04,Norwich,Aston Villa,K Friend,9,12,4,6,15,13,6,5,2,3,0,0
+2015-09-26,West Ham,Norwich,M Dean,19,16,7,7,7,17,7,5,0,0,0,0
+2005-11-05,Newcastle,Birmingham,M Dean,10,9,5,3,20,18,3,2,3,2,0,0
+2013-05-07,Wigan,Swansea,K Friend,14,10,11,6,14,13,4,4,2,2,0,0
+2019-12-04,Wolves,West Ham,A Marriner,13,6,7,3,8,9,5,4,1,2,0,0
+2018-08-18,Cardiff,Newcastle,C Pawson,12,12,1,6,14,16,5,5,2,2,0,1
+2008-11-08,Hull,Bolton,A Wiley,16,10,11,6,15,10,6,7,1,2,0,0
+2019-09-22,West Ham,Man United,A Taylor,8,9,6,3,8,9,3,7,2,2,0,0
+2011-10-01,Wolves,Newcastle,M Halsey,25,10,12,6,7,10,10,5,1,2,0,0
+2004-01-31,Man United,Southampton,G Barber,12,17,7,11,9,11,1,10,0,2,0,0
+2007-09-29,Portsmouth,Reading,M Halsey,25,13,17,7,4,7,8,4,1,1,0,0
+2007-04-21,Liverpool,Wigan,M Riley,23,4,12,3,10,10,12,3,2,2,0,0
