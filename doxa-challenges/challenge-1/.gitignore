@@ -1,0 +1,7 @@
+# Mac related
+.DS_Store
+
+# IPython
+ipynb_checkpoints
+
+submission
